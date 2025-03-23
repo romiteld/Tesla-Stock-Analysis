@@ -25,7 +25,7 @@ Technologies Used
 - Chart.js for interactive data visualization
 
 Viewing the Dashboard
-The dashboard is hosted on GitHub Pages and can be accessed at: [https://[your-username].github.io/tesla-stock-analysis/](https://[your-username].github.io/tesla-stock-analysis/)
+The dashboard is hosted on GitHub Pages and can be accessed at: https://romiteld.github.io/Tesla-Stock-Analysis/
 
 Running Locally
 To run this dashboard locally:
